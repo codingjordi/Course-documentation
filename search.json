@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course documentation",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "md-basics.html",
+    "href": "md-basics.html",
+    "title": "Markdown",
+    "section": "",
+    "text": "*italics*, **bold**, ***bold italics***\nitalics, bold, bold italics\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\n\nstrikethrough\n\n\n`verbatim code`\n\nverbatim code"
+  },
+  {
+    "objectID": "md-basics.html#text-formatitng",
+    "href": "md-basics.html#text-formatitng",
+    "title": "Markdown",
+    "section": "",
+    "text": "*italics*, **bold**, ***bold italics***\nitalics, bold, bold italics\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\n\nstrikethrough\n\n\n`verbatim code`\n\nverbatim code"
+  },
+  {
+    "objectID": "md-basics.html#headings",
+    "href": "md-basics.html#headings",
+    "title": "Markdown",
+    "section": "Headings",
+    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\n\nHeader 3\n\n\n#### Header 4\n\nHeader 4\n\n\n##### Header 5\n\nHeader 5\n\n\n###### Header 6\nHeader 6"
+  },
+  {
+    "objectID": "md-basics.html#links-images",
+    "href": "md-basics.html#links-images",
+    "title": "Markdown",
+    "section": "Links & Images",
+    "text": "Links & Images\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics*, **bold**, ***bold italics***\nitalics, bold, bold italics\n\n\n&lt;https://quarto.org&gt;\nhttps://quarto.org\n\n\n[Quarto](https://quarto.org)\nQuarto\n\n\n![Caption](elephant.png)\n\n\n\n[![Caption](elephant.png)](https://quarto.org)\n\n\n\n[![Caption](elephant.png)](https://quarto.org \"An elephant\")\n\n\n\n[![](elephant.png){fig-alt=\"Alt text\"}](https://quarto.org)"
+  },
+  {
+    "objectID": "md-basics.html#lists",
+    "href": "md-basics.html#lists",
+    "title": "Markdown",
+    "section": "Lists",
+    "text": "Lists\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n\n\n\n\n* unordered list\n    + sub-item 1\n    + sub-item 2\n        - sub-sub-item 1\n\nunordered list\n\nsub-item 1\nsub-item 2\n\nsub-sub-item 1\n\n\n\n\n\n*   item 2\n\n    Continued (indent 4 spaces)\n\nitem 2\nContinued (indent 4 spaces)\n\n\n\n1. ordered list\n2. item 2\n    i) sub-item 1\n         A.  sub-sub-item 1\n\nordered list\nitem 2\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\n(@)  A list whose numbering\n\ncontinues after\n\n(@)  an interruption\n\nA list whose numbering\n\ncontinues after\n\nan interruption\n\n\n\n::: {}\n1. A list\n:::\n\n::: {}\n1. Followed by another list\n:::\n\n\nA list\n\n\n\n\nFollowed by another list\n\n\n\n\nterm\n: definition\n\nterm\n\ndefinition"
+  },
+  {
+    "objectID": "md-basics.html#tables",
+    "href": "md-basics.html#tables",
+    "title": "Markdown",
+    "section": "Tables",
+    "text": "Tables\n\nMarkdown Syntax\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\n\nOutput\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\nLearn more in the article on Tables."
+  },
+  {
+    "objectID": "md-basics.html#source-code",
+    "href": "md-basics.html#source-code",
+    "title": "Markdown",
+    "section": "Source Code",
+    "text": "Source Code\nUse ``` to delimit blocks of source code\nAdd a language to syntax highlight code blocks:\n```python\n1 + 1\n```"
+  },
+  {
+    "objectID": "md-basics.html#equations",
+    "href": "md-basics.html#equations",
+    "title": "Markdown",
+    "section": "Equations",
+    "text": "Equations"
+  },
+  {
+    "objectID": "md-basics.html#diagrams",
+    "href": "md-basics.html#diagrams",
+    "title": "Markdown",
+    "section": "Diagrams",
+    "text": "Diagrams\nQuarto has native support for embedding Mermaid and Graphviz diagrams. This enables you to create flowcharts, sequence diagrams, state diagrams, Gantt charts, and more using a plain text syntax inspired by markdown.\nFor example, here we embed a flowchart created using Mermaid:"
+  },
+  {
+    "objectID": "md-basics.html#videos",
+    "href": "md-basics.html#videos",
+    "title": "Markdown",
+    "section": "Videos",
+    "text": "Videos"
+  },
+  {
+    "objectID": "md-basics.html#page-breaks",
+    "href": "md-basics.html#page-breaks",
+    "title": "Markdown",
+    "section": "Page Breaks",
+    "text": "Page Breaks"
+  },
+  {
+    "objectID": "md-basics.html#divs-and-spans",
+    "href": "md-basics.html#divs-and-spans",
+    "title": "Markdown",
+    "section": "Divs and Spans",
+    "text": "Divs and Spans"
+  },
+  {
+    "objectID": "md-basics.html#callout-blocks",
+    "href": "md-basics.html#callout-blocks",
+    "title": "Markdown",
+    "section": "Callout Blocks",
+    "text": "Callout Blocks"
+  },
+  {
+    "objectID": "md-basics.html#other-blocks",
+    "href": "md-basics.html#other-blocks",
+    "title": "Markdown",
+    "section": "Other Blocks",
+    "text": "Other Blocks"
+  },
+  {
+    "objectID": "md-basics.html#special-characters",
+    "href": "md-basics.html#special-characters",
+    "title": "Markdown",
+    "section": "Special Characters",
+    "text": "Special Characters"
+  },
+  {
+    "objectID": "md-basics.html#keyboard-shortcuts",
+    "href": "md-basics.html#keyboard-shortcuts",
+    "title": "Markdown",
+    "section": "Keyboard Shortcuts",
+    "text": "Keyboard Shortcuts"
+  },
+  {
+    "objectID": "programmer-dictionary.html",
+    "href": "programmer-dictionary.html",
+    "title": "The Programmer Dictionary",
+    "section": "",
+    "text": ": definition\n\n\n\n\n: defintion\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#a",
+    "href": "programmer-dictionary.html#a",
+    "title": "The Programmer Dictionary",
+    "section": "",
+    "text": ": definition\n\n\n\n\n: defintion\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#b",
+    "href": "programmer-dictionary.html#b",
+    "title": "The Programmer Dictionary",
+    "section": "B",
+    "text": "B\n\nBash (.sh)\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#c",
+    "href": "programmer-dictionary.html#c",
+    "title": "The Programmer Dictionary",
+    "section": "C",
+    "text": "C\n\nCI/CD\n: definition\n\n\n\nClient\n: defintion\n\n\n\nCloud\n: definition\n\n\n\nController\n: definition\n\n\n\nComponent (React)\n: defintion\n\n\n\ncurl (Linux)\n: definition\n\n\n\nCron Job\n: definition\n\n\n\nCSS (Cascade Style Sheet)\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#d",
+    "href": "programmer-dictionary.html#d",
+    "title": "The Programmer Dictionary",
+    "section": "D",
+    "text": "D\n\nData Warehouse\n: definition\n\n\n\nDB (Data Base)\n: defintion\n\n\n\nDDD (Domain-Driven Design)\n: definition\n\n\n\n(to) deploy\n: definition\n\n\n\nDependency\n: definition\n\n\n\nDocker\n: definition\n\n\n\nDomain (Architecture)\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#e",
+    "href": "programmer-dictionary.html#e",
+    "title": "The Programmer Dictionary",
+    "section": "E",
+    "text": "E\n\nEclipse\n: definition\n\n\n\nES6 (ECMAScript 2015)\n: defintion\n\n\n\nExpress\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#f",
+    "href": "programmer-dictionary.html#f",
+    "title": "The Programmer Dictionary",
+    "section": "F",
+    "text": "F\n\nFATO\n: definition\n\n\n\nFlameshot\n: definition\n\n\n\n(to) fork\n: definition\n\n\n\nFresh (instantánea)\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#g",
+    "href": "programmer-dictionary.html#g",
+    "title": "The Programmer Dictionary",
+    "section": "G",
+    "text": "G\n\n\nGit\n: definition\n\n\n\nGitHub\n: definition\n\n\n\ngh-pages\n: definition\n\n\n\nGoa\n: definition\n\n\n\ngParted\n: definition\n\n\n\nGraphQL\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#h",
+    "href": "programmer-dictionary.html#h",
+    "title": "The Programmer Dictionary",
+    "section": "H",
+    "text": "H\n\nHashmap\n: definition\n\n\n\nHelper\n: defintion\n\n\n\nHook (React)\n: definition\n\n\n\nHtop\n: definition\n\n\n\nHTML (Hyper Text Markup Language)\n: definition\n\n\n\nHTTPS (Hypertext Transfer Protocol Secure)\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#i",
+    "href": "programmer-dictionary.html#i",
+    "title": "The Programmer Dictionary",
+    "section": "I",
+    "text": "I\n\nIntelliJ IDEA\n: definition\n\n\n\nInmutability\n: definition\n\n\n\nInstance Variable\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#j",
+    "href": "programmer-dictionary.html#j",
+    "title": "The Programmer Dictionary",
+    "section": "J",
+    "text": "J\n\n\nJIT\n: definition\n\n\n\nJNI\n: definition\n\n\n\n.jsx\n: definition\n\n\n\n.json (JavaScript Object Notation)\n: definition\n\n\n\nJava\n: definition\n\n\n\nJava EE\n: definition\n\n\n\nJava Fx\n: definition\n\n\n\nJava SE\n: definition\n\n\n\nJavaScript\n: definition\n\n\n\nJDA\n: definition\n\n\n\nJCL\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#k",
+    "href": "programmer-dictionary.html#k",
+    "title": "The Programmer Dictionary",
+    "section": "K",
+    "text": "K"
+  },
+  {
+    "objectID": "programmer-dictionary.html#l",
+    "href": "programmer-dictionary.html#l",
+    "title": "The Programmer Dictionary",
+    "section": "L",
+    "text": "L\n\nLinux\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#m",
+    "href": "programmer-dictionary.html#m",
+    "title": "The Programmer Dictionary",
+    "section": "M",
+    "text": "M\n\n\nMindset\n: definition\n\n\n\nMarkdown (.md)\n: hola que ase\n\n\n\nMaven\n: definition\n\n\n\nmutability\n: definition\n\n\n\nMVC (Model View Controller)\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#n",
+    "href": "programmer-dictionary.html#n",
+    "title": "The Programmer Dictionary",
+    "section": "N",
+    "text": "N\n\n\nNext.js\n: definition\n\n\n\nNode\n: definition\n\n\n\nNode.js\n: definition\n\n\n\nNoSQL\n: definition\n\n\n\nnpm\n: definition\n\n\n\nnpx\n: definition\n\n\n\nnvm\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#o",
+    "href": "programmer-dictionary.html#o",
+    "title": "The Programmer Dictionary",
+    "section": "O",
+    "text": "O\n\n\nObsidian\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#p",
+    "href": "programmer-dictionary.html#p",
+    "title": "The Programmer Dictionary",
+    "section": "P",
+    "text": "P\n\n\nPolimorfism\n\n\n\nProduct Backlog\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#q",
+    "href": "programmer-dictionary.html#q",
+    "title": "The Programmer Dictionary",
+    "section": "Q",
+    "text": "Q\n\n\nQbernet\n: definition\n\n\n\nQuarkus\n: definition\n\n\n\nQuarto\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#r",
+    "href": "programmer-dictionary.html#r",
+    "title": "The Programmer Dictionary",
+    "section": "R",
+    "text": "R\n\n\nrafce\n: defintion\n\n\n\nReact\n: definition\n\n\n\n(to) render\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#s",
+    "href": "programmer-dictionary.html#s",
+    "title": "The Programmer Dictionary",
+    "section": "S",
+    "text": "S\n\n\nS3\n: definition\n\n\n\nSandbox\n: definition\n\n\n\nScript\n: definition\n\n\n\nSDK (Software Development Kit)\n: definition\n\n\n\nSpringBoot\n: definition\n\n\n\nSQL\n: definition\n\n\n\nsudo\n: definition\n\n\n\nServer\n: definition\n\n\n\nSCRUM\n: definition\n\n\n\nSynaptic\n: definition\n\n\n\nSystem Design\n: definition\n\n\n\nSynaptyc Software Manager\n: definition\n\n\n\nSystem Monitor\n: definition\n\n\n\nSystem Report\n: definition\n\n\n\nSoftware sources\n: definition\n\n\n\nSublime\n: definition\n\n\n\nsnap\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#t",
+    "href": "programmer-dictionary.html#t",
+    "title": "The Programmer Dictionary",
+    "section": "T",
+    "text": "T\n\n\nTimeshift\n: definition\n\n\n\nThymeLeaf\n: definition\n\n\n\nTMC Beans\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#u",
+    "href": "programmer-dictionary.html#u",
+    "title": "The Programmer Dictionary",
+    "section": "U",
+    "text": "U\n\n\nUbuntu\n: definition\n\n\n\nUML\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#v",
+    "href": "programmer-dictionary.html#v",
+    "title": "The Programmer Dictionary",
+    "section": "V",
+    "text": "V\n\n\nVite\n: defintion\n\n\n\nVSC (Visual Studio Code)\n: definition\n\n\n\nVM\n: defintion"
+  },
+  {
+    "objectID": "programmer-dictionary.html#w",
+    "href": "programmer-dictionary.html#w",
+    "title": "The Programmer Dictionary",
+    "section": "W",
+    "text": "W\n\n\nWebsocket\n: definition\n\n\n\nwizzard\n: defintion"
+  },
+  {
+    "objectID": "programmer-dictionary.html#x",
+    "href": "programmer-dictionary.html#x",
+    "title": "The Programmer Dictionary",
+    "section": "X",
+    "text": "X\n\n\nXML (eXtensible Markup Language)\n: defintion"
+  },
+  {
+    "objectID": "programmer-dictionary.html#y",
+    "href": "programmer-dictionary.html#y",
+    "title": "The Programmer Dictionary",
+    "section": "Y",
+    "text": "Y\n\n.yml\n: definition"
+  },
+  {
+    "objectID": "programmer-dictionary.html#z",
+    "href": "programmer-dictionary.html#z",
+    "title": "The Programmer Dictionary",
+    "section": "Z",
+    "text": "Z"
+  }
+]
