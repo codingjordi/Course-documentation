@@ -1,0 +1,200 @@
+---
+title: "Markdown"
+---
+
+## Text Formatitng
+
+
++-----------------------------------------+-----------------------------------------+
+| ```                                     | *italics*, **bold**, ***bold italics*** |
+| *italics*, **bold**, ***bold italics*** |                                         |
+| ````                                    |                                         |
++-----------------------------------------+-----------------------------------------+
+| ```                                     | superscript^2^ / subscript~2~           |
+| superscript^2^ / subscript~2~           |                                         |
+| ```                                     |                                         |
++-----------------------------------------+-----------------------------------------+
+| ```                                     | ~~strikethrough~~                       |
+| ~~strikethrough~~                       |                                         |
+|                                         |                                         |
+| ```                                     |                                         |
++-----------------------------------------+-----------------------------------------+
+| ```                                     | verbatim code                           |
+| `verbatim code`                         |                                         |
+|                                         |                                         |
+| ```                                     |                                         |
++-----------------------------------------+-----------------------------------------+
+
+## Headings
+
++-----------------+-----------------+
+| Markdown Syntax | Output          |
++=================+=================+
+| ```             | # Header 1      |
+| # Header 1      |                 |
+| ````            |                 |
++-----------------+-----------------+
+| ```             | ## Header 2     |
+| ## Header 2     |                 | 
+| ```             |                 |
++-----------------+-----------------+
+| ```             | ### Header 3    |
+| ### Header 3    |                 |
+|                 |                 |
+| ```             |                 |
++-----------------+-----------------+
+| ```             | #### Header 4   |
+| #### Header 4   |                 |
+|                 |                 |
+| ```             |                 |
++-----------------+-----------------+
+| ```             | ##### Header 5  |
+| ##### Header 5  |                 |
+|                 |                 |
+| ```             |                 |
++-----------------+-----------------+
+| ```             | ###### Header 6 |
+| ###### Header 6 |                 |
+| ````            |                 |
++-----------------+-----------------+
+
+## Links & Images
+
++--------------------------------------------------------------+--------------------------------------------------------------+
+| Markdown Syntax                                              | Output                                                       |
++==============================================================+==============================================================+
+| ```                                                          | *italics*, **bold**, ***bold italics***                      |
+| *italics*, **bold**, ***bold italics***                      |                                                              |
+| ````                                                         |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| ```                                                          | <https://quarto.org>                                         |
+| <https://quarto.org>                                         |                                                              |
+| ```                                                          |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| ```                                                          | [Quarto](https://quarto.org)                                 |
+| [Quarto](https://quarto.org)                                 |                                                              |
+| ```                                                          |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| ```                                                          | ![Caption](elephant.png)                                     |
+| ![Caption](elephant.png)                                     |                                                              |
+| ```                                                          |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| ```                                                          | [![Caption](elephant.png)](https://quarto.org)               |
+| [![Caption](elephant.png)](https://quarto.org)               |                                                              |
+| ```                                                          |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| ```                                                          | [![Caption](elephant.png)](https://quarto.org "An elephant") |
+| [![Caption](elephant.png)](https://quarto.org "An elephant") |                                                              |
+| ````                                                         |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| ```                                                          | [![](elephant.png){fig-alt="Alt text"}](https://quarto.org)  |
+| [![](elephant.png){fig-alt="Alt text"}](https://quarto.org)  |                                                              |
+| ```                                                          |                                                              |
++--------------------------------------------------------------+--------------------------------------------------------------+
+
+
+## Lists
+
++---------------------------------+---------------------------------+
+| Markdown Syntax                 | Output                          |
++=================================+=================================+
++---------------------------------+---------------------------------+
+| ```                             | * unordered list                |
+| * unordered list                |     + sub-item 1                |
+|     + sub-item 1                |     + sub-item 2                |
+|     + sub-item 2                |         - sub-sub-item 1        |
+|         - sub-sub-item 1        |                                 |
+| ````                            |                                 |
++---------------------------------+---------------------------------+
+| ```                             | *   item 2                      |
+| *   item 2                      |                                 |
+|                                 |     Continued (indent 4 spaces) |
+|     Continued (indent 4 spaces) |                                 |
+| ```                             |                                 |
++---------------------------------+---------------------------------+
+| ```                             | 1. ordered list                 |
+| 1. ordered list                 | 2. item 2                       |
+| 2. item 2                       |     i) sub-item 1               |
+|     i) sub-item 1               |          A.  sub-sub-item 1     |
+|          A.  sub-sub-item 1     |                                 |
+| ```                             |                                 |
++---------------------------------+---------------------------------+
+| ```                             | (@)  A list whose numbering     |
+| (@)  A list whose numbering     |                                 |
+|                                 | continues after                 |
+| continues after                 |                                 |
+|                                 | (@)  an interruption            |
+| (@)  an interruption            |                                 |
+| ```                             |                                 |
++---------------------------------+---------------------------------+
+| ```                             | ::: {}                          |
+| ::: {}                          | 1. A list                       |
+| 1. A list                       | :::                             |
+| :::                             |                                 |
+|                                 | ::: {}                          |
+| ::: {}                          | 1. Followed by another list     |
+| 1. Followed by another list     | :::                             |
+| :::                             |                                 |
+| ```                             |                                 |
++---------------------------------+---------------------------------+
+| ```                             | term                            |
+| term                            | : definition                    |
+| : definition                    |                                 |
+| ````                            |                                 |
++---------------------------------+---------------------------------+
+
+## Tables
+
+### Markdown Syntax
+```
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+```
+
+### Output
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+Learn more in the article on [Tables](https://quarto.org/docs/authoring/tables.html).
+
+## Source Code
+
+**Use ` ``` ` to delimit blocks of source code**
+
+Add a language to syntax highlight code blocks:
+
+```
+```python
+1 + 1
+```
+```
+
+## Equations
+
+## Diagrams
+
+Quarto has native support for embedding [Mermaid](https://mermaid.js.org/config/Tutorials.html) and [Graphviz](https://graphviz.org/) diagrams. This enables you to create flowcharts, sequence diagrams, state diagrams, Gantt charts, and more using a plain text syntax inspired by markdown.
+
+For example, here we embed a flowchart created using Mermaid:
+
+
+
+## Videos
+
+## Page Breaks
+
+## Divs and Spans
+
+## Callout Blocks
+
+## Other Blocks
+
+## Special Characters
+
+## Keyboard Shortcuts
