@@ -2,12 +2,14 @@
 title: "Course documentation"
 ---
 
-Hello! I'm Jordi.
+# Hello! I'm Jordi.
 
-Hope this finds you well! 💻
+## Hope this finds you well! 💻
 
-This this supposed to help me practicing Quarto Markdown and also get used to documenting all my knowledge and progress through the course.
+#### This this supposed to help me practicing Quarto Markdown and also get used to documenting all my knowledge and progress through the course.
 
-I will do my best to write all my documentation in English and stick to it cause my English it's getting a bit rusty, but no prometo nada. 🤷‍♂️
+#### I will do my best to write all my documentation in English and stick to it cause my English it's getting a bit rusty, but no prometo nada.  🤷
+
+#### So besides the coding part, I'm also looking forward to write a lot so I can improve my writting, grammar and technical vocabulary.
 
 ------------------------------------------------------------------------
