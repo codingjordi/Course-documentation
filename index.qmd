@@ -2,14 +2,16 @@
 title: "Course documentation"
 ---
 
-# Hello! I'm Jordi. 
+# Hello! I'm Jordi.
 
 ## Hope this finds you well! 💻 {.border-0}
 
 #### This this supposed to help me practicing Quarto Markdown and also get used to documenting all my knowledge and progress through the course.
 
-#### I will do my best to write all my documentation in English and stick to it cause my English it's getting a bit rusty, but no prometo nada.  🤷
+#### I will do my best to write all my documentation in English and stick to it cause my English it's getting a bit rusty, but no prometo nada. 🤷
 
 #### So besides the coding part, I'm also looking forward to write a lot so I can improve my writting, grammar and technical vocabulary.
+
+#### At the moment there's only two sections in this website =\> [The Programmer Dictionary](https://codingjordi.github.io/Course-documentation/programmer-dictionary.html){style="color: #409AF5;"} & [Markdown](https://codingjordi.github.io/Course-documentation/md-basics.html){style="color: #409AF5;"}
 
 ------------------------------------------------------------------------
