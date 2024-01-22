@@ -11,14 +11,14 @@
     "href": "md-basics.html",
     "title": "Markdown",
     "section": "",
-    "text": "*italics*, **bold**, ***bold italics***\nitalics, bold, bold italics\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\n\nstrikethrough\n\n\n`verbatim code`\n\nverbatim code"
+    "text": "sudo apt install node\nitalics, bold, bold italics\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\n\nstrikethrough\n\n\n`verbatim code`\n\nverbatim code"
   },
   {
     "objectID": "md-basics.html#text-formatitng",
     "href": "md-basics.html#text-formatitng",
     "title": "Markdown",
     "section": "",
-    "text": "*italics*, **bold**, ***bold italics***\nitalics, bold, bold italics\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\n\nstrikethrough\n\n\n`verbatim code`\n\nverbatim code"
+    "text": "sudo apt install node\nitalics, bold, bold italics\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\n\nstrikethrough\n\n\n`verbatim code`\n\nverbatim code"
   },
   {
     "objectID": "md-basics.html#headings",
