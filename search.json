@@ -123,28 +123,28 @@
     "href": "programmer-dictionary.html",
     "title": "The Programmer Dictionary",
     "section": "",
-    "text": ": definition\n\n\n\n\n: defintion\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition"
+    "text": ": definition\n\n\n\n\n: defintion\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#a",
     "href": "programmer-dictionary.html#a",
     "title": "The Programmer Dictionary",
     "section": "",
-    "text": ": definition\n\n\n\n\n: defintion\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition"
+    "text": ": definition\n\n\n\n\n: defintion\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition\n\n\n\n\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#b",
     "href": "programmer-dictionary.html#b",
     "title": "The Programmer Dictionary",
     "section": "B",
-    "text": "B\n\nBash (.sh)\n: definition"
+    "text": "B\n\nBash (.sh)\n: definition\n\n\n\nBranch (Git)\n: definition\n\n\n\nBuilt-in\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#c",
     "href": "programmer-dictionary.html#c",
     "title": "The Programmer Dictionary",
     "section": "C",
-    "text": "C\n\nCI/CD\n: definition\n\n\n\nClient\n: defintion\n\n\n\nCloud\n: definition\n\n\n\nController\n: definition\n\n\n\nComponent (React)\n: defintion\n\n\n\ncurl (Linux)\n: definition\n\n\n\nCron Job\n: definition\n\n\n\nCSS (Cascade Style Sheet)\n: definition"
+    "text": "C\n\nCI/CD\n: definition\n\n\n\nClient\n: defintion\n\n\n\nCLI (Comand Line Interface)\n: defintion\n\n\n\nClass (Java)\n\n\n\nCloud\n: definition\n\n\n\nController\n: definition\n\n\n\nComponent (React)\n: defintion\n\n\n\nCOP (Component Oriented Programming)\n: definition\n\n\n\ncurl (Linux)\n: definition\n\n\n\nCron Job\n: definition\n\n\n\nCSS (Cascade Style Sheet)\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#d",
@@ -158,21 +158,21 @@
     "href": "programmer-dictionary.html#e",
     "title": "The Programmer Dictionary",
     "section": "E",
-    "text": "E\n\nEclipse\n: definition\n\n\n\nES6 (ECMAScript 2015)\n: defintion\n\n\n\nExpress\n: definition"
+    "text": "E\n\nEclipse\n: definition\n\n\n\nES6 (ECMAScript 2015)\n: defintion\n\n\n\nEntity\n: definition\n\n\n\nExpress\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#f",
     "href": "programmer-dictionary.html#f",
     "title": "The Programmer Dictionary",
     "section": "F",
-    "text": "F\n\nFATO\n: definition\n\n\n\nFlameshot\n: definition\n\n\n\n(to) fork\n: definition\n\n\n\nFresh (instantánea)\n: definition"
+    "text": "F\n\nFactory Design Pattern\n: definition\n\n\n\nFATO\n: definition\n\n\n\nFlameshot\n: definition\n\n\n\n(to) fork\n: definition\n\n\n\nFresh (instantánea)\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#g",
     "href": "programmer-dictionary.html#g",
     "title": "The Programmer Dictionary",
     "section": "G",
-    "text": "G\n\n\nGit\n: definition\n\n\n\nGitHub\n: definition\n\n\n\ngh-pages\n: definition\n\n\n\nGoa\n: definition\n\n\n\ngParted\n: definition\n\n\n\nGraphQL\n: definition"
+    "text": "G\n\n\nGit\n: definition\n\n\n\nGitHub\n: definition\n\n\n\ngh-pages\n: definition\n\n\n\nGoa\n: definition\n\n\n\ngParted\n: definition\n\n\n\nGraphQL\n: definition\n\n\n\ngit init\n: definition\n\n\n\ngit add\n: definition\n\n\n\ngit diff\n: definition\n\n\n\ngit status\n: definition\n\n\n\ngit commit\n: definition\n\n\n\ngit log\n: definition\n\n\n\ngit push\n: definition\n\n\n\ngit revert\n: definition\n\n\n\ngit reset\n: definition\n\n\n\ngit restore\n: definition\n\n\n\ngit branch\n: definition\n\n\n\ngit checkout\n: definition\n\n\n\ngit switch\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#h",
@@ -186,14 +186,14 @@
     "href": "programmer-dictionary.html#i",
     "title": "The Programmer Dictionary",
     "section": "I",
-    "text": "I\n\nIntelliJ IDEA\n: definition\n\n\n\nInmutability\n: definition\n\n\n\nInstance Variable\n: definition"
+    "text": "I\n\nImmutability\n: definition\n\n\n\nIntelliJ IDEA\n: definition\n\n\n\nInmutability\n: definition\n\n\n\nInstance Variable\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#j",
     "href": "programmer-dictionary.html#j",
     "title": "The Programmer Dictionary",
     "section": "J",
-    "text": "J\n\n\nJIT\n: definition\n\n\n\nJNI\n: definition\n\n\n\n.jsx\n: definition\n\n\n\n.json (JavaScript Object Notation)\n: definition\n\n\n\nJava\n: definition\n\n\n\nJava EE\n: definition\n\n\n\nJava Fx\n: definition\n\n\n\nJava SE\n: definition\n\n\n\nJavaScript\n: definition\n\n\n\nJDA\n: definition\n\n\n\nJCL\n: definition"
+    "text": "J\n\n\nJIT\n: definition\n\n\n\nJNI\n: definition\n\n\n\nJPA\n: definition\n\n\n\n.jsx\n: definition\n\n\n\n.json (JavaScript Object Notation)\n: definition\n\n\n\nJSON crack\n: definition\n\n\n\nJava\n: definition\n\n\n\nJava EE\n: definition\n\n\n\nJava Fx\n: definition\n\n\n\nJava SE\n: definition\n\n\n\nJavaScript\n: definition\n\n\n\nJenkins\n: definition\n\n\n\njQuery\n: definition\n\n\n\nJDA\n: definition\n\n\n\nJDK (Java Developer Kit)\n: definition\n\n\n\nJCL\n: definition\n\n\n\nJUnit (Java)\n: defintion"
   },
   {
     "objectID": "programmer-dictionary.html#k",
@@ -207,21 +207,21 @@
     "href": "programmer-dictionary.html#l",
     "title": "The Programmer Dictionary",
     "section": "L",
-    "text": "L\n\nLinux\n: definition"
+    "text": "L\n\nLinux\n: definition\n\n\n\nLiteral Object\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#m",
     "href": "programmer-dictionary.html#m",
     "title": "The Programmer Dictionary",
     "section": "M",
-    "text": "M\n\n\nMindset\n: definition\n\n\n\nMarkdown (.md)\n: hola que ase\n\n\n\nMaven\n: definition\n\n\n\nmutability\n: definition\n\n\n\nMVC (Model View Controller)\n: definition"
+    "text": "M\n\n\nMindset\n: definition\n\n\n\nMarkdown (.md)\n: hola que ase\n\n\n\nMaven\n: definition\n\n\n\nMongoDB\n: definition\n\n\n\nmutability\n: definition\n\n\n\nMVC (Model View Controller)\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#n",
     "href": "programmer-dictionary.html#n",
     "title": "The Programmer Dictionary",
     "section": "N",
-    "text": "N\n\n\nNext.js\n: definition\n\n\n\nNode\n: definition\n\n\n\nNode.js\n: definition\n\n\n\nNoSQL\n: definition\n\n\n\nnpm\n: definition\n\n\n\nnpx\n: definition\n\n\n\nnvm\n: definition"
+    "text": "N\n\n\nNext.js\n: definition\n\n\n\nNetlify\n: definition\n\n\n\nNode\n: definition\n\n\n\nNode.js\n: definition\n\n\n\nNoSQL\n: definition\n\n\n\nnpm\n: definition\n\n\n\nnpx\n: definition\n\n\n\nnvm\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#o",
@@ -235,7 +235,7 @@
     "href": "programmer-dictionary.html#p",
     "title": "The Programmer Dictionary",
     "section": "P",
-    "text": "P\n\n\nPolimorfism\n\n\n\nProduct Backlog\n: definition"
+    "text": "P\n\n\nPolimorfism\n\n\n\nPandoc\n\n\n\nProduct Backlog\n: definition\n\n\n\nprops (React)\n: definition\n\n\n\nPolimorfism"
   },
   {
     "objectID": "programmer-dictionary.html#q",
@@ -249,21 +249,21 @@
     "href": "programmer-dictionary.html#r",
     "title": "The Programmer Dictionary",
     "section": "R",
-    "text": "R\n\n\nrafce\n: defintion\n\n\n\nReact\n: definition\n\n\n\n(to) render\n: definition"
+    "text": "R\n\n\nrafce\n: defintion\n\n\n\nReact\n: definition\n\n\n\nRedux\n: definition\n\n\n\n(to) render\n: definition\n\n\n\nRender\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#s",
     "href": "programmer-dictionary.html#s",
     "title": "The Programmer Dictionary",
     "section": "S",
-    "text": "S\n\n\nS3\n: definition\n\n\n\nSandbox\n: definition\n\n\n\nScript\n: definition\n\n\n\nSDK (Software Development Kit)\n: definition\n\n\n\nSpringBoot\n: definition\n\n\n\nSQL\n: definition\n\n\n\nsudo\n: definition\n\n\n\nServer\n: definition\n\n\n\nSCRUM\n: definition\n\n\n\nSynaptic\n: definition\n\n\n\nSystem Design\n: definition\n\n\n\nSynaptyc Software Manager\n: definition\n\n\n\nSystem Monitor\n: definition\n\n\n\nSystem Report\n: definition\n\n\n\nSoftware sources\n: definition\n\n\n\nSublime\n: definition\n\n\n\nsnap\n: definition"
+    "text": "S\n\n\nS3\n: definition\n\n\n\nSandbox\n: definition\n\n\n\nSemantic UI (React)\n: definition\n\n\n\nScript\n: definition\n\n\n\nSDK (Software Development Kit)\n: definition\n\n\n\nSpringBoot\n: definition\n\n\n\nSQL\n: definition\n\n\n\nSQLite\n: definition\n\n\n\nsudo\n: definition\n\n\n\nServer\n: definition\n\n\n\nSCRUM\n: definition\n\n\n\nSynaptic\n: definition\n\n\n\nSystem Design\n: definition\n\n\n\nSynaptyc Software Manager\n: definition\n\n\n\nSystem Monitor\n: definition\n\n\n\nSystem Report\n: definition\n\n\n\nSoftware sources\n: definition\n\n\n\nState (React)\n: definition\n\n\n\nSublime\n: definition\n\n\n\nsnap\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#t",
     "href": "programmer-dictionary.html#t",
     "title": "The Programmer Dictionary",
     "section": "T",
-    "text": "T\n\n\nTimeshift\n: definition\n\n\n\nThymeLeaf\n: definition\n\n\n\nTMC Beans\n: definition"
+    "text": "T\n\n\nTimeshift\n: definition\n\n\n\nThymeLeaf\n: definition\n\n\n\nTMC Beans\n: definition\n\n\n\nTOC (Table of Contents)\n: definition"
   },
   {
     "objectID": "programmer-dictionary.html#u",
@@ -277,14 +277,14 @@
     "href": "programmer-dictionary.html#v",
     "title": "The Programmer Dictionary",
     "section": "V",
-    "text": "V\n\n\nVite\n: defintion\n\n\n\nVSC (Visual Studio Code)\n: definition\n\n\n\nVM\n: defintion"
+    "text": "V\n\n\nVercel\n: definition\n\n\n\nVite (React)\n: defintion\n\n\n\nV8\n: definition\n\n\n\nVSC (Visual Studio Code)\n: definition\n\n\n\nVM\n: defintion"
   },
   {
     "objectID": "programmer-dictionary.html#w",
     "href": "programmer-dictionary.html#w",
     "title": "The Programmer Dictionary",
     "section": "W",
-    "text": "W\n\n\nWebsocket\n: definition\n\n\n\nwizzard\n: defintion"
+    "text": "W\n\n\nWebsocket\n: definition\n\n\n\nWizzard\n: defintion\n\n\n\nwebpack\n: defintion"
   },
   {
     "objectID": "programmer-dictionary.html#x",
