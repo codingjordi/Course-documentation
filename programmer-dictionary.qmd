@@ -31,6 +31,11 @@ title: "The Programmer Dictionary"
 
 ---
 
+### API Reference 
+: definition
+
+---
+
 ### Agile
 : definition
 
@@ -41,12 +46,27 @@ title: "The Programmer Dictionary"
 
 ---
 
+### Axios <span style="color:cornflowerblue;"><u>(React)</u></span>
+
+---
+
 ## B
 
 ### Bash (.sh)
 : definition
 
 ---
+
+### Branch <span style="color:gray;">(<u>Git</u>)</span>
+: definition
+
+---
+
+### Built-in
+: definition
+
+---
+
 
 ## C
 
@@ -61,6 +81,15 @@ title: "The Programmer Dictionary"
 
 ---
 
+### CLI (*Comand Line Interface*)
+: defintion
+
+---
+
+### Class <span style="color:darkorange;">(<u>Java</u>)</span>
+
+---
+
 ### Cloud
 : definition
 
@@ -71,8 +100,13 @@ title: "The Programmer Dictionary"
 
 ---
 
-### Component (*React*)
+### Component <span style="color:cornflowerblue;">(<u>React</u>)</span>
 : defintion
+
+---
+
+### COP (*Component Oriented Programming*)
+: definition
 
 ---
 
@@ -143,6 +177,11 @@ title: "The Programmer Dictionary"
 
 ---
 
+### Entity
+: definition
+
+---
+
 ### Express
 : definition
 
@@ -150,6 +189,10 @@ title: "The Programmer Dictionary"
 
 ## F
 
+### Factory Design Pattern
+: definition
+
+---
 
 ### FATO
 : definition
@@ -206,6 +249,72 @@ title: "The Programmer Dictionary"
 
 ---
 
+### git init
+: definition
+
+---
+
+### git add
+: definition
+
+---
+
+### git diff
+: definition
+
+---
+
+### git status
+: definition
+
+---
+
+### git commit
+
+: definition
+
+---
+
+### git log
+: definition
+
+---
+
+### git push
+: definition
+
+---
+
+### git revert
+: definition
+
+---
+
+### git reset
+: definition
+
+---
+
+### git restore
+: definition
+
+---
+
+### git branch
+: definition
+
+---
+
+### git checkout
+: definition
+
+---
+
+### git switch
+: definition
+
+---
+
 
 ## H
 
@@ -219,7 +328,7 @@ title: "The Programmer Dictionary"
 
 ---
 
-### Hook (*React*)
+### Hook <span style="color:cornflowerblue;">(<u>React</u>)</span>
 : definition
 
 ---
@@ -240,6 +349,11 @@ title: "The Programmer Dictionary"
 ---
 
 ## I
+
+### Immutability
+: definition
+
+---
 
 ### IntelliJ IDEA
 : definition
@@ -271,12 +385,22 @@ title: "The Programmer Dictionary"
 
 ---
 
+### JPA
+: definition
+
+---
+
 ### .jsx
 : definition
 
 ---
 
 ### .json (JavaScript Object Notation)
+: definition
+
+---
+
+### JSON crack
 : definition
 
 ---
@@ -306,7 +430,22 @@ title: "The Programmer Dictionary"
 
 ---
 
+### Jenkins
+: definition
+
+---
+
+### jQuery
+: definition
+
+---
+
 ### JDA
+: definition
+
+---
+
+### JDK (Java Developer Kit)
 : definition
 
 ---
@@ -316,12 +455,22 @@ title: "The Programmer Dictionary"
 
 ---
 
+### JUnit <span style="color:darkorange;">(<u>Java</u>)</span>
+: defintion
+
+---
+
 
 ## K
 
 ## L
 
 ### Linux
+: definition
+
+---
+
+### Literal Object
 : definition
 
 ---
@@ -346,6 +495,11 @@ title: "The Programmer Dictionary"
 
 ---
 
+### MongoDB
+: definition
+
+---
+
 ### mutability
 : definition
 
@@ -361,6 +515,11 @@ title: "The Programmer Dictionary"
 ---
 
 ### Next.js
+: definition
+
+---
+
+### Netlify
 : definition
 
 ---
@@ -412,8 +571,21 @@ title: "The Programmer Dictionary"
 
 ---
 
+### Pandoc
+
+---
+
 ### Product Backlog
 : definition
+
+---
+
+### props <span style="color:cornflowerblue;">(<u>React</u>)</span>
+: definition
+
+---
+
+### Polimorfism
 
 ---
 
@@ -451,7 +623,17 @@ title: "The Programmer Dictionary"
 
 ---
 
+### Redux
+: definition
+
+---
+
 ### (to) render
+: definition
+
+---
+
+### Render 
 : definition
 
 ---
@@ -466,6 +648,11 @@ title: "The Programmer Dictionary"
 ---
 
 ### Sandbox
+: definition
+
+---
+
+### Semantic UI <span style="color:cornflowerblue;">(<u>React</u>)</span>
 : definition
 
 ---
@@ -486,6 +673,11 @@ title: "The Programmer Dictionary"
 ---
 
 ### SQL
+: definition
+
+---
+
+### SQLite
 : definition
 
 ---
@@ -535,6 +727,11 @@ title: "The Programmer Dictionary"
 
 ---
 
+### State <span style="color:cornflowerblue;">(<u>React</u>)</span>
+: definition
+
+---
+
 ### Sublime
 : definition
 
@@ -565,6 +762,10 @@ title: "The Programmer Dictionary"
 
 ---
 
+### TOC (*Table of Contents*)
+: definition
+
+---
 
 ## U
 
@@ -586,8 +787,18 @@ title: "The Programmer Dictionary"
 
 ---
 
-### Vite
+### Vercel
+: definition
+
+---
+
+### Vite <span style="color:cornflowerblue;"><u>(React)</u></span>
 : defintion
+
+---
+
+### V8
+: definition
 
 ---
 
@@ -612,7 +823,12 @@ title: "The Programmer Dictionary"
 
 ---
 
-### wizzard
+### Wizzard
+: defintion
+
+---
+
+### webpack
 : defintion
 
 ---
